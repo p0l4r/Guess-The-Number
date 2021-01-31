@@ -1,0 +1,11 @@
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess The Number.csprojResolveAssemblyReference.cache
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess_The_Number.Form1.resources
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess_The_Number.Properties.Resources.resources
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess The Number.csproj.GenerateResource.cache
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess The Number.csproj.CoreCompileInputs.cache
+J:\Dot net Practice app\Guess The Number\Guess The Number\bin\Debug\Guess The Number.exe.config
+J:\Dot net Practice app\Guess The Number\Guess The Number\bin\Debug\Guess The Number.exe
+J:\Dot net Practice app\Guess The Number\Guess The Number\bin\Debug\Guess The Number.pdb
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess The Number.exe
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess The Number.pdb
+J:\Dot net Practice app\Guess The Number\Guess The Number\obj\Debug\Guess_The_Number.Form2.resources
